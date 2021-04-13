@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\usmca\documents\visual studio 2015\projects\project11_neuralnet\project11_neuralnet\main.cpp(86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project11_NeuralNet.vcxproj -> c:\users\usmca\documents\visual studio 2015\Projects\Project11_NeuralNet\x64\Debug\Project11_NeuralNet.exe
+  Project11_NeuralNet.vcxproj -> c:\users\usmca\documents\visual studio 2015\Projects\Project11_NeuralNet\x64\Debug\Project11_NeuralNet.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+﻿  main.cpp
+i:\2021\github\cppproject11_spacedefense\project11_neuralnet\Turret.h(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  290 of 290 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project11_NeuralNet.vcxproj -> I:\2021\Github\CppProject11_SpaceDefense\x64\Release\Project11_NeuralNet.exe
+  Project11_NeuralNet.vcxproj -> I:\2021\Github\CppProject11_SpaceDefense\x64\Release\Project11_NeuralNet.pdb (Full PDB)
