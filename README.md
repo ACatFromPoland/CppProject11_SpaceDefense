@@ -7,8 +7,6 @@ Brief description -
    Left and right keys to turn the turret and space to shoot.
    (Shush) Alt key lets you shoot every frame ;)
 
-If you bring the .dlls from the main folder to the Release folder should run normally if you aren't bothered compiling.
-
 Preview
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/67654528/114614404-5a5fef80-9c9c-11eb-9382-745f8f516a37.gif)
